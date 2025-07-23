@@ -1,0 +1,145 @@
+ history
+    1  cd 'hello world'
+    2  mkdir hello-world
+    3  cd 'hello worl'
+    4  mkdir hello-world
+    5  touch index.js
+    6  echo 'console.log("Hello world");'>index.js
+    7  cd'hello world'
+    8  mkir hello-world
+    9  cd 'hello world'
+   10  mkdir hello-world
+   11  touch index. js
+   12  cd 'hello world'
+   13  mkdir hello-world
+   14  mkdir hello-world
+   15  cd hello-world
+   16  touch index.js
+   17  echo 'console.log("Hello world");'>index.js
+   18  git init
+   19  git add
+   20  mkdir hello-world
+   21  cd hello-world
+   22  touch index.js
+   23  echo 'console.log("Hello world");'>js
+   24  git init
+   25  git add .
+   26  git commit -m "Add hello.js with Hello World"
+   27  git remote add origin https://github.com/MahlanguS96/hello-world.git
+   28  git push origin master
+   29  git push origin main
+   30  cd ~
+   31  git clone https://github.com/MahlanguS96/task-1-prac.git
+   32  ls
+   33  cd task-1-prac
+   34  code .
+   35  code .
+   36  ls
+   37  cd ~
+   38  ls
+   39  cd dekstop
+   40  cd desktop
+   41  ls
+   42  echo "The shell is my translator to the OS"
+   43  touch shell_intro.sh
+   44  cd task-1-prac
+   45  cd ~
+   46  ls
+   47  task-1-prac
+   48  cd task-1-prac
+   49  echo "The shell is my translator to the OS"
+   50  touch shell_intro.sh
+   51  echo "welcome to the shell"
+   52  pwd
+   53  ls
+   54  chmod
+   55  chmod +x shell_intro.sh
+   56  ./shell_intro.sh
+   57  touch reflection.txt
+   58  cd ~
+   59  git clone https://github.com/MahlanguS96/task-1-prac.git
+   60  ls
+   61  cd task-1-prac
+   62  code .
+   63  echo "Welcome to the shell" > shell_intro.sh
+   64  pwd
+   65  ls
+   66  chmod +x shell_intro.sh
+   67  ./shell_intro.sh
+   68  echo "What is the purpose of a shell?" > reflection.txt
+   69  echo "1.Shell reads and interprets commands allowing users to interact with the operating system 2.I learned how to interact with the system administration, scripting and automation 3.Using shell is faster than manual navigation." > reflection.txt
+   70  history | tail
+   71  cd ~
+   72  git clone https://github.com/MahlanguS96/task-1-prac.git
+   73  mkdir Tpc_Community
+   74  cd Tpc_Community
+   75  git init
+   76  mkdir automation_scripts
+   77  touch deploy.sh
+   78  mkdir Tpc_community
+   79  cd Tpc_Community
+   80  touch deploy.sh
+   81  touch style_guide.txt
+   82  ls
+   83  cd ~
+   84  cd Tpc_Community
+   85  git init
+   86  git add .
+   87  git commit -m "Tpc_Community with two files"
+   88  git commit -m "Added deploy.sh"
+   89  git commit -m "Added deploy.sh"
+   90  history
+   91  history
+   92  git commit -m "Opened text file"
+   93  cd Tpc_Community
+   94  git commit -m "Opened text file"
+   95  ls
+   96  nano deploy.sh
+   97  nano deploy.sh
+   98  chod +x deploy.sh
+   99  chomd +x deploy.sh
+  100  ls
+  101  chomd +x deploy.sh
+  102  git init
+  103  git add .
+  104  cd deploy.sh
+  105  cd ~
+  106  cd Tpc_Community
+  107  echo "My tpc-community project" > deploy.sh
+  108  git init
+  109  git add .
+  110  git commit -m "Tpc_Community project"
+  111  git commit -m "added deploy.sh"
+  112  git commit -m "Added style_guide.txt"
+  113  git clone https://github.com/londeka-z/tpc-community.git
+  114  cd
+  115  cd Tpc_Community
+  116  pwd
+  117  code .
+  118  git clone https://github.com/MahlanguS96/tpc-community.git
+  119  git remote add origin https://github.com/MahlanguS96/tpc-community.git
+  120  git push origin main
+  121  git pull
+  122  git push origin main
+  123  git status
+  124  git add .
+  125  git init
+  126  git add .
+  127  git commit -m "added tpc- community"
+  128  git remote add origin https://github.com/MahlanguS96/tpc-community.git
+  129  git push origin main
+  130  git status
+  131  git push
+  132   git push --set-upstream origin main
+  133  git checkout -b changes
+  134  git push origin changes
+  135  git checkout main
+  136  git pull
+  137  git pull origin main
+  138  git init
+  139  git pull origin main
+  140  git pull origin main --allow-unrelated-histories
+  141  git pull origin main
+  142  git push origin main
+  143  history
+
